@@ -1,0 +1,27 @@
+<?xml  version="1.0"  encoding="GBK"  ?>
+<!-- 
+此文档有程序生成，请不要修改
+文档生成时间： 23624563462335 -->
+<email date="2018-4-21" time="9:21:56">
+	
+	<from>aaa@aaa.com</from>
+	<to>
+		<to-email>bbb@bbb.com</to-email>
+		<to-email>ccc@ccc.com</to-email>
+		<to-email>ddd@ddd.com</to-email>
+	</to>
+	<subject>Hello XML!</subject>
+	<body>
+		&gt;&gt;&gt;Hello XML!!!&lt;&lt;&lt;
+		<![CDATA[
+		>>>你好 XML!!!<<<
+		>>>你好 XML!!!<<<
+		>>>你好 XML!!!<<<
+		]]>		
+	</body>
+</email>
+
+
+
+
+
